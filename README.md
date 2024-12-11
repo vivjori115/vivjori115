@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @vivjori115  
+- 👀 I’m interested in Data Science, Machine Learning, and Generative AI.  
+- 🌱 I’m currently learning advanced deep learning techniques and MLOps.  
+- 💞️ I’m looking to collaborate on open-source projects in AI and data visualization.  
+- 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/vivekjori115/).  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love solving complex data puzzles and experimenting with new AI tools.  
