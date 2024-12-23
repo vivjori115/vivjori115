@@ -53,6 +53,6 @@ If you have any questions or would like to collaborate on a project, feel free t
 
 - **Email**: [viv.jori11@gmail.com](mailto:viv.jori11@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/vivek-jori-878a81223/)
-- **Twitter**: [Twitter Profile](https://twitter.com/vivjori115)
+- **X (Twitter)**: [X Profile](https://x.com/VivekJori1)
 
 ---
