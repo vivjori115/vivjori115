@@ -19,6 +19,20 @@ I developed a Plant Disease Prediction application using TensorFlow and Streamli
 
 ---
 
+### Expense Tracking System
+
+I developed an Expense Tracking System using Python and Streamlit to help individuals track and manage their daily expenses effectively. This project aims to provide an easy-to-use solution for budgeting and financial management.
+
+#### Key Features:
+- **User-Friendly Interface**: Built with Streamlit, providing an intuitive interface to enter, view, and manage expenses.
+- **CRUD Operations**: Allows users to perform Create, Read, Update, and Delete operations on their expense records.
+- **Expense Categorization**: Users can categorize their expenses (e.g., food, transport, entertainment) to track spending habits.
+- **Real-Time Visualization**: Provides graphical insights into the expenses to help users make informed financial decisions.
+- **Data Storage**: Expense data is stored securely in a database (MySQL) for persistence and retrieval.
+
+  ---
+
+
 ## 🛠️ Skills & Tools
 
 ### Programming Languages
