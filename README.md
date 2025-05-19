@@ -8,9 +8,9 @@ Hello! I’m **Vivek Jori**, a passionate data scientist specializing in Natural
 
 ## 🔭 Current Projects
 
-### Tomato Disease Prediction
+### [Tomato Disease Prediction](https://github.com/vivjori115/Tomato-Disease-Prediction)
 
-I developed a Plant Disease Prediction application using TensorFlow and Streamlit to assist farmers in identifying diseases in tomato plants. This project aligns with my educational background in Agriculture, where I gained a solid understanding of agricultural practices and challenges.
+I developed a Plant Disease Prediction application using TensorFlow and Streamlit to assist farmers in identifying diseases in tomato plants.
 
 #### Key Features:
 - **User-Friendly Interface**: Designed an intuitive Streamlit app that allows users to upload images of plant leaves for analysis.
