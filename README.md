@@ -19,7 +19,7 @@ I developed a Plant Disease Prediction application using TensorFlow and Streamli
 
 ---
 
-### Expense Tracking System
+### [Expense Tracking System](https://github.com/vivjori115/expense_management_system)
 
 I developed an Expense Tracking System using Python and Streamlit to help individuals track and manage their daily expenses effectively. This project aims to provide an easy-to-use solution for budgeting and financial management.
 
