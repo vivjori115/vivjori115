@@ -106,14 +106,14 @@ I developed an Expense Tracking System using Python and Streamlit to help indivi
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivjori115&show_icons=true&locale=en&layout=compact" alt="vivjori115" /></p>
 
-
+<!-- Cloud & DevOps
 ### Programming Languages
 - **Python**: Data analysis, machine learning, and NLP.
-- **SQL**: Data querying and management.
+- **SQL**: Data querying and management.-->
 
 ### NLP & GenAI Techniques
 - **Text Preprocessing**: Tokenization, stemming, lemmatization.
-- **Machine Learning Models**: Classification, clustering, sentiment analysis.
+- **Machine Learning Models**: Regression, Classification, clustering, sentiment analysis.
 
 ### Tools & Technologies
 - **Streamlit**: Building interactive applications for NLP and GenAI model deployment.
@@ -130,7 +130,7 @@ I developed an Expense Tracking System using Python and Streamlit to help indivi
 ---
 
 ## 🔧 How to Use This Profile
-Feel free to explore my projects listed here. You can clone the repositories or follow the instructions in the README files of each project to replicate the work. I am constantly working on improving and adding new projects, so stay tuned for future updates!
+Feel free to explore my projects listed here. You can clone the repositories or follow the instructions in the README files of each project to replicate the work. I am constantly working on improving and adding new projects, so stay tuned for future updates! 
 
 ---
 
