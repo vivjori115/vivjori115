@@ -129,6 +129,10 @@ I developed an Expense Tracking System using Python and Streamlit to help indivi
 
 ---
 
+### [📜 Certifications](https://github.com/vivjori115/Certificates_?tab=readme-ov-file#-certifications)
+
+---
+
 ## 🔧 How to Use This Profile
 Feel free to explore my projects listed here. You can clone the repositories or follow the instructions in the README files of each project to replicate the work. I am constantly working on improving and adding new projects, so stay tuned for future updates! 
 
