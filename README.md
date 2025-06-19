@@ -129,7 +129,7 @@ I developed an Expense Tracking System using Python and Streamlit to help indivi
 
 ---
 
-### [📜 Certifications](https://github.com/vivjori115/Certificates_?tab=readme-ov-file#-certifications)
+### [📜 Certifications](https://github.com/vivjori115/Certificates_?tab=readme-ov-file#-certifications) - Clik here
 
 ---
 
