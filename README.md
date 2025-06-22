@@ -9,6 +9,18 @@ Hello! I’m **Vivek Jori**, a passionate data scientist specializing in Natural
 
 ## 🔭 Current Projects
 
+### [Employee Performance Prediction System](https://github.com/vivjori115/Employee-perfomace_prediction)
+
+I developed an Employee Performance Prediction System using Python, Scikit-learn, and Flask to assist organizations in evaluating and predicting employee performance based on various work-related factors.
+
+#### Key Features:
+- **User-Friendly Interface**: Built with Flask to provide a clean and simple web form for HR teams to input employee details.
+- **ML-Based Prediction**: Trained a machine learning model using Scikit-learn to predict performance ratings from historical HR data.
+- **Factor Analysis**: Identifies the top 3 features (e.g., department, experience, workload) that significantly impact employee performance.
+- **Department-Wise Insights**: Provides performance distribution across departments to help management focus on key problem areas.
+
+---
+
 ### [Tomato Disease Prediction](https://github.com/vivjori115/Tomato-Disease-Prediction)
 
 I developed a Plant Disease Prediction application using TensorFlow and Streamlit to assist farmers in identifying diseases in tomato plants.
@@ -129,7 +141,7 @@ I developed an Expense Tracking System using Python and Streamlit to help indivi
 
 ---
 
-### [📜 Certifications](https://github.com/vivjori115/Certificates_?tab=readme-ov-file#-certifications) - Clik here
+### [📜 Certifications](https://github.com/vivjori115/Certificates_?tab=readme-ov-file#-certifications) - Click Here!
 
 ---
 
