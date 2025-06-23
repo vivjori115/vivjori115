@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivjori115&label=Profile%20views&color=0e75b6&style=flat" alt="vivjori115" /> </p>
 
-👋 **About Me**
+## 👋 **About Me**
 
 Hello! I’m **Vivek Jori**, a passionate data scientist specializing in Natural Language Processing (NLP) and Generative AI (GenAI). With a strong foundation in machine learning and data analysis, I thrive on transforming unstructured data into actionable insights and building intelligent systems that understand and generate human language.
 
