@@ -3,7 +3,7 @@
 
 ## 👋 **About Me**
 
-Hello! I’m **Vivek Jori**, a passionate data scientist specializing in Natural Language Processing (NLP) and Generative AI (GenAI). With a strong foundation in machine learning and data analysis, I thrive on transforming unstructured data into actionable insights and building intelligent systems that understand and generate human language.
+Hello! I’m **Vivek Jori**, a passionate data scientist specializing in deep learning (DL) and Generative AI (GenAI). With a strong foundation in machine learning and data analysis, I thrive on transforming unstructured data into actionable insights and building intelligent systems that understand and generate human language.
 
 ---
 
