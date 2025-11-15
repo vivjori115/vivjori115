@@ -3,10 +3,10 @@
 
 ## 👋 **About Me**
 
-Hello! I’m **Vivek Jori**, a passionate data scientist specializing in deep learning (DL) and Generative AI (GenAI). With a strong foundation in machine learning and data analysis, I thrive on transforming unstructured data into actionable insights and building intelligent systems that understand and generate human language.
+Hello! I’m **Vivek Jori**, a <!--passionate  --> data scientist specializing in  Generative AI (GenAI) and deep learning (DL). With a strong foundation in machine learning and data analysis, I thrive on transforming unstructured data into actionable insights and building intelligent systems that understand and generate human language.
 
 ---
-
+<!--
 ## 🔭 Current Projects
 
 ### [Employee Performance Prediction System](https://github.com/vivjori115/Employee-perfomace_prediction)
@@ -43,7 +43,7 @@ I developed an Expense Tracking System using Python and Streamlit to help indivi
 - **Real-Time Visualization**: Provides graphical insights into the expenses to help users make informed financial decisions.
 - **Data Storage**: Expense data is stored securely in a database (MySQL) for persistence and retrieval.
 
-  ---
+  --- -->
 
 
 ## 🛠️ Skills & Tools
@@ -115,29 +115,51 @@ I developed an Expense Tracking System using Python and Streamlit to help indivi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
 </p>
-
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivjori115&show_icons=true&locale=en&layout=compact" alt="vivjori115" /></p>
-
+ -->
 <!-- Cloud & DevOps
 ### Programming Languages
 - **Python**: Data analysis, machine learning, and NLP.
 - **SQL**: Data querying and management.-->
 
-### NLP & GenAI Techniques
-- **Text Preprocessing**: Tokenization, stemming, lemmatization.
-- **Machine Learning Models**: Regression, Classification, clustering, sentiment analysis.
+### GenAI Techniques
+- **Prompt Engineering**: Zero-shot, few-shot, chain-of-thought prompting.
+- **RAG Pipelines**: Retrieval-Augmented Generation using ChromaDB, FAISS.
+- **Agentic AI Systems**: Multi-agent workflows, tool calling, planning systems.
+- **LangGraph**: Graph-based agent orchestration and stateful LLM pipelines.
+- **LangChain**: LLM pipelines, tools, memory, document loaders, RAG chains.
+- **LLM Fine-Tuning**: LoRA, QLoRA, custom model adaptation.
+- **Embeddings & Semantic Search**: Sentence Transformers, OpenAI embeddings.
+- **Chatbot Development**: Streamlit-based and API-driven GenAI assistants.
+
+---
+
+### ML & NLP Techniques
+- **Text Preprocessing**: Tokenization, stemming, lemmatization, stopword removal.
+- **NLP Pipelines**: Named Entity Recognition (NER), POS tagging, text classification.
+- **Text Analytics**: Sentiment analysis, topic modeling (LDA, NMF).
+- **Machine Learning Models**: Regression, classification, clustering.
+- **Deep Learning Basics**: Neural networks, CNN/RNN fundamentals.
+- **Model Evaluation**: Precision, recall, F1-score, ROC/AUC.
+
+---
 
 ### Tools & Technologies
-- **Streamlit**: Building interactive applications for NLP and GenAI model deployment.
-- **Jupyter Notebooks**: For documentation and exploratory data analysis.
+- **Streamlit**: Building interactive dashboards and GenAI model interfaces.
+- **LangChain / LangGraph / LlamaIndex**: Frameworks for building GenAI applications.
+- **Vector Databases**: ChromaDB, FAISS for RAG and semantic search.
+- **Jupyter Notebooks**: Documentation, experimentation, EDA.
 - **Git & GitHub**: Version control and collaboration.
+- **Python Ecosystem**: Pandas, NumPy, Scikit-learn, HuggingFace Transformers.
+- **APIs**: OpenAI, Gemini, HuggingFace Inference API.
 
 ---
 
 ## 🧠 Soft Skills
-- **Analytical Thinking**: Strong ability to solve complex problems.
-- **Communication**: Proficient in conveying technical concepts to non-technical audiences.
-- **Collaboration**: Experience working in team environments to deliver projects successfully.
+- **Analytical Thinking**: Strong ability to break down and solve complex problems.
+- **Communication**: Skilled at explaining technical concepts clearly.
+- **Collaboration**: Experience working in team environments to deliver successful projects.
 
 ---
 
